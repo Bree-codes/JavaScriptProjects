@@ -1,2 +1,2 @@
 # JavaScriptProjects
-Learning java script..
+Learning java script.
